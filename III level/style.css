@@ -1,0 +1,7 @@
+.bg-box {
+    width: 1880px;
+    height: 950px;
+    background:url(img/Лампочка.png) top / 60px 70px repeat-x, url(img/Трава.png) bottom / 100px 150px repeat-x,url(img/Ёж.webp) left / 60px 50px repeat-y, url(img/Пончик.png) right / 60px 50px repeat-y, url(img/Дом.jpg) center no-repeat;
+    background-color: green;
+    
+}
