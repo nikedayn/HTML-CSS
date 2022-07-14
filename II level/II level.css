@@ -7,7 +7,7 @@
 .text-box div >p {
     color: red;
 }
-.text-box div+h3+p {
+h3:nth-child(6)+p {
     color: green;
 }
 .yellow {
